@@ -11,7 +11,7 @@ You need to type "s5" to place your symbol in the 5th slot. your number would be
 
 ![image](https://user-images.githubusercontent.com/69241233/123687320-6bb5a280-d86e-11eb-99f3-de3bdab38816.png)
 
-Please enjoy the game and dont forget to use the file correct.py to play. You just need to go to the file then raw then download the file and run it on python 3.6+. you can find a list of libraries required to be installed in order to run this program in the requirements.txt file. Please make sure to install them first on your system using pop install 'library-name'.
+Please enjoy the game and dont forget to use the file correct.py to play. You just need to go to the file then raw then download the file and run it on python 3.6+. you can find a list of libraries required to be installed in order to run this program in the requirements.txt file. Please make sure to install them first on your system using pip install 'library-name'.
 
 Although, it is possible to get a tie. But, it is nearly impossible to win.
 
